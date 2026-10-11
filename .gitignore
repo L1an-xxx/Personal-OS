@@ -1,0 +1,17 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Go / backend
+*.db
+*.db-journal
+*.exe
+*.test
+*.out
+
+# Node / frontend
+node_modules/
+dist/
